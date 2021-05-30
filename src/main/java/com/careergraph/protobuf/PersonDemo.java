@@ -1,4 +1,4 @@
-package com.citi.protobuf;
+package com.careergraph.protobuf;
 
 import com.careergraph.models.Person;
 
